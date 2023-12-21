@@ -6,6 +6,6 @@ In this project, we were instructed to take the existing code and refactor it in
 
 The following demonstrates the web application's appearance:
 
-https://dc5john.github.io/horiseon-web-application/#social-media-marketing
+https://dc5john.github.io/horiseon-web-application/
 
 ![image](https://github.com/DC5John/horiseon-web-application/assets/153493027/180cbc72-6cc3-42c0-9b8b-7f068a8d898a)
