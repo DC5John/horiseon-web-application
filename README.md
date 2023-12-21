@@ -8,5 +8,4 @@ The following demonstrates the web application's appearance:
 
 https://dc5john.github.io/horiseon-web-application/#social-media-marketing
 
-(![image](https://github.com/DC5John/horiseon-web-application/assets/153493027/fa8c0e9e-28f3-450d-b494-ceff1e80a194)
-
+![image](https://github.com/DC5John/horiseon-web-application/assets/153493027/180cbc72-6cc3-42c0-9b8b-7f068a8d898a)
