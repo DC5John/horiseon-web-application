@@ -4,7 +4,7 @@ In this project, we were instructed to take the existing code and refactor it in
 
 ## Assets
 
-Refer to the following
+The following demonstrates the web application's appearance:
 
 https://dc5john.github.io/horiseon-web-application/#social-media-marketing
 
